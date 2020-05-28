@@ -1,0 +1,2 @@
+# stupart
+Artificial Intelligence Project
