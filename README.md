@@ -3,13 +3,14 @@
 
 ![Logo Stupart ChatBot](https://i.imgur.com/LxuJQVp.png)
 
-Stupart Chatbot adalah aplikasi mobile berupa chatbot yang bertujuan membimbing para pelajar dalam proses pembelajaran mereka. Para pelajar dapat mengajukan pertanyaan seputar pelajaran yang kurang mereka pahami kepada lawan bicara mereka di Stupart Chatbot, yaitu Starley. Starley akan selalu siap menjawab pertanyaan pelajar kapanpun mereka bertanya sehingga para pelajar dapat langsung memperoleh jawaban yang mereka inginkan tanpa perlu membuang waktu lebih.
+<p align="justify">
+Stupart ChatBot adalah aplikasi mobile berupa chatbot yang bertujuan membimbing para pelajar dalam proses pembelajaran mereka. Para pelajar dapat mengajukan pertanyaan seputar mata kuliah yang kurang mereka pahami kepada lawan bicara mereka di Stupart ChatBot, yaitu Starley. Starley akan selalu siap menjawab pertanyaan pelajar kapanpun mereka bertanya sehingga para pelajar dapat langsung memperoleh jawaban yang mereka inginkan tanpa perlu membuang waktu lebih. </p>  
 
 **Content:** 
 * Mata Kuliah Artificial Intelligence (AI) 
 * Mata Kuliah Statistika (Peluang & Statistik)
 
-### Contoh input
+### Contoh Input
 **Login Page:**
 > **User**: Jessica
 
@@ -22,31 +23,35 @@ Stupart Chatbot adalah aplikasi mobile berupa chatbot yang bertujuan me
 
 ### Cara Kerja ChatBot
 ![Cara Kerja ChatBot](https://i.imgur.com/oqqnWbl.jpg)
-1. User memberikan input menggunakan bahasa natural
-2. Client mengirim value inputan dari user ke backend 
-3. Backend memberikan response message kepada client
-4. User mendapatkan output dengan menggunakan bahasa natural
 
-
-### Bahasa Pemrograman yang dipakai
+### Bahasa Pemrograman yang Dipakai
 * Front End : Javascript (React-Native) <br/>
-* Back End : Go <br/>
+* Back End : Go Language <br/>
 
 ### Instalasi Aplikasi
 1. Install dari GitHub
-> Git Clone https://github.com/afifadayu/stupart.git <br/>
-> CD Stupart
+```
+git clone https://github.com/afifadayu/stupart.git
+cd stupart
+```
 
-2. Install node.js. 
+2. Install node.js
 > https://nodejs.org/en/download/
 
-3. Install Expo di **App Store** atau **Google Play Store**.
-> Yarn install expo-cli --global
+3. Install Expo di **App Store** atau **Google Play Store**
+```
+yarn install expo-cli --global
+```
 
 4.
 5.
 6.
-7. Membuka project
+7. Membuka project <br/>
+download **Android Studio** untuk Windows atau **Xcode** untuk Mac
+```
+expo start
+```
+
 
 ### Penulis
 1. 2101654440 - Aurellia Vania Y. B. <br/>
