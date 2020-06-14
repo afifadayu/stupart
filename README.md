@@ -44,6 +44,7 @@ yarn install expo-cli --global
 ```
 
 4. Open Folder chatbot in Goland
+> https://github.com/chyntiadewifortuna/chatbot
 5. Jalankan Project
 7. Membuka project <br/>
 download **Android Studio** untuk Windows atau **Xcode** untuk Mac
