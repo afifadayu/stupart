@@ -8,7 +8,7 @@ Stupart Chatbot adalah aplikasi mobile berupa chatbot yang bertujuan me
 
 **Content:** Mata Pelajaran Statistika (Peluang & Statistik)
 
-#### Contoh input
+#### Contoh input <br/>
 > Starley: <br/>
 > User: <br/>
 > Starley: <br/>
@@ -17,14 +17,14 @@ Stupart Chatbot adalah aplikasi mobile berupa chatbot yang bertujuan me
 
 #### Cara Kerja![Alt text](https://cdn.pixabay.com/photo/2017/11/13/07/14/cat-eyes-2944820_960_720.jpg)
 
-#### Bahasa Pemrograman yang dipakai
-* Front End: Javascript (React-Native)
-* Back End: Go
+#### Bahasa Pemrograman yang dipakai <br/>
+* Front End: Javascript (React-Native) <br/>
+* Back End: Go <br/>
 
 #### Instalasi Aplikasi
 Klik [Disini](https://google.com/)
 
-#### Penulis
+#### Penulis <br/>
 1. 2101654440 - Aurellia Vania Y. B. <br/>
 2. 2101700586 - Afifa Ayu Widhiyanthi <br/>
 3. 2101667254 - Dewi Fortuna <br/>
