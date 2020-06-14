@@ -1,7 +1,7 @@
 # Stupart Chat Bot
 ## Student Partner Artificial Intelligence Project
 
-# Stupart Chat Bot
+# Stupart Chat Bot <br/>
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 Stupart Chatbot adalah aplikasi mobile berupa chatbot yang bertujuan membimbing para pelajar dalam proses pembelajaran mereka. Para pelajar dapat mengajukan pertanyaan seputar pelajaran yang kurang mereka pahami kepada lawan bicara mereka di Stupart Chatbot, yaitu Starley. Starley akan selalu siap menjawab pertanyaan pelajar kapanpun mereka bertanya sehingga para pelajar dapat langsung memperoleh jawaban yang mereka inginkan tanpa perlu membuang waktu lebih.
@@ -18,8 +18,8 @@ Stupart Chatbot adalah aplikasi mobile berupa chatbot yang bertujuan me
 #### Cara Kerja![Alt text](https://cdn.pixabay.com/photo/2017/11/13/07/14/cat-eyes-2944820_960_720.jpg)
 
 #### Bahasa Pemrograman yang dipakai <br/>
-* Front End: Javascript (React-Native) <br/>
-* Back End: Go <br/>
+- Front End: Javascript (React-Native) <br/>
+- Back End: Go <br/>
 
 #### Instalasi Aplikasi
 Klik [Disini](https://google.com/)
