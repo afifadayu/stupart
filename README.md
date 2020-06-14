@@ -5,9 +5,13 @@
 
 Stupart Chatbot adalah aplikasi mobile berupa chatbot yang bertujuan membimbing para pelajar dalam proses pembelajaran mereka. Para pelajar dapat mengajukan pertanyaan seputar pelajaran yang kurang mereka pahami kepada lawan bicara mereka di Stupart Chatbot, yaitu Starley. Starley akan selalu siap menjawab pertanyaan pelajar kapanpun mereka bertanya sehingga para pelajar dapat langsung memperoleh jawaban yang mereka inginkan tanpa perlu membuang waktu lebih.
 
+
+**Logo:** 
+![Logo Stupart ChatBot](https://i.imgur.com/LxuJQVp.png)
+
 **Content:** 
-* Mata Pelajaran Artificial Intelligence (AI) 
-* Statistika (Peluang & Statistik)
+* Mata Kuliah Artificial Intelligence (AI) 
+* Mata Kuliah Statistika (Peluang & Statistik)
 
 ### Contoh input
 > Starley: <br/>
@@ -16,12 +20,12 @@ Stupart Chatbot adalah aplikasi mobile berupa chatbot yang bertujuan me
 > User: <br/>
 > Starley: <br/>
 
-### Cara Kerja 
+### Cara Kerja ChatBot
 ![Cara Kerja ChatBot](https://cdn.pixabay.com/photo/2017/11/13/07/14/cat-eyes-2944820_960_720.jpg)
 
 ### Bahasa Pemrograman yang dipakai
 * Front End : Javascript (React-Native) <br/>
-* Back End  : Go <br/>
+* Back End : Go <br/>
 
 ### Instalasi Aplikasi
 Klik [Disini](https://google.com/)
