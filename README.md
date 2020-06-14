@@ -43,9 +43,8 @@ cd stupart
 yarn install expo-cli --global
 ```
 
-4.
-5.
-6.
+4. Open Folder chatbot in Goland
+5. Jalankan Project
 7. Membuka project <br/>
 download **Android Studio** untuk Windows atau **Xcode** untuk Mac
 ```
